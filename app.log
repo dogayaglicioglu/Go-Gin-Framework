@@ -1,0 +1,24 @@
+2024/03/24 21:52:06 Task created successfully.
+2024/03/24 21:58:34 Task created successfully.
+2024/03/26 22:05:22 User created successfully.
+2024/03/26 22:06:16 User bedo logged in successfully.
+2024/03/26 22:15:30 User bedo logged in successfully.
+2024/03/26 22:36:27 Task created successfully.
+2024/03/26 22:39:57 Task created successfully.
+2024/03/26 22:46:07 Task created successfully.
+2024/03/26 22:46:07 Task created successfully.
+2024/03/26 22:57:30 Task created successfully.
+2024/03/26 23:05:19 CreateTaskHandler called1
+2024/03/26 23:05:19 Task created successfully.
+2024/03/26 23:30:49 You are not authorized to delete this task.
+2024/03/26 23:30:49 Deleting tasks for user ID: 5
+2024/03/26 23:34:04 CreateTaskHandler called1
+2024/03/26 23:34:04 Task created successfully.
+2024/03/26 23:35:31 Task is deleted successfully.
+2024/03/26 23:37:45 CreateTaskHandler called1
+2024/03/26 23:37:45 Task created successfully.
+2024/03/26 23:38:27 Task is deleted successfully.
+2024/03/26 23:39:18 Task is deleted successfully.
+2024/03/26 23:39:28 Task is deleted successfully.
+2024/03/26 23:39:38 Task is deleted successfully.
+2024/03/26 23:41:47 Task is updated successfully.
